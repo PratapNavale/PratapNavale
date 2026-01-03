@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**PratapNavale/PratapNavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
  Hi, I'm Pratap Navale 👋<br><br>I am a **Computer Engineering undergraduate** with a strong interest in **software development, problem-solving, and building real world applications**. I enjoy learning technologies from the ground up and applying them through hands-on projects rather than limiting myself to theory.<br><br>My academic and personal work spans across **Java, C++, data structures, DBMS, web development (HTML, CSS, JavaScript)**, and **IoT-based systems**. I am particularly interested in designing systems that are **scalable, user-focused, and logically sound**.<br><br>I have worked on projects such as **online food ordering systems, attendance management software, GUI-based applications, and IoT monitoring solutions**, which have helped me strengthen my understanding of both backend logic and user experience.<br><br>Currently, I am focused on:<br><br>* Improving my **core programming and algorithmic thinking**<br>* Learning **database design and system architecture**<br>* Building **full-stack and IoT-integrated applications**<br>* Exploring how technology can be turned into **practical products and businesses**<br><br>I believe in continuous learning, clean code, and solving problems with clarity and structure.<br><br>📫 **Connect with me:**<br><br>* GitHub: `github.com/PratapNavale`<br>* LinkedIn: `linkedin.com/in/pratapnavale`<br>* Email: `navalepratap2005@gmail.com`<br>
 
 
@@ -21,10 +13,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratapNavale&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
