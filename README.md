@@ -6,7 +6,21 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...# 💫 About Me:
+ Hi, I'm Pratap Navale 👋<br><br>I am a **Computer Engineering undergraduate** with a strong interest in **software development, problem-solving, and building real world applications**. I enjoy learning technologies from the ground up and applying them through hands-on projects rather than limiting myself to theory.<br><br>My academic and personal work spans across **Java, C++, data structures, DBMS, web development (HTML, CSS, JavaScript)**, and **IoT-based systems**. I am particularly interested in designing systems that are **scalable, user-focused, and logically sound**.<br><br>I have worked on projects such as **online food ordering systems, attendance management software, GUI-based applications, and IoT monitoring solutions**, which have helped me strengthen my understanding of both backend logic and user experience.<br><br>Currently, I am focused on:<br><br>* Improving my **core programming and algorithmic thinking**<br>* Learning **database design and system architecture**<br>* Building **full-stack and IoT-integrated applications**<br>* Exploring how technology can be turned into **practical products and businesses**<br><br>I believe in continuous learning, clean code, and solving problems with clarity and structure.<br><br>📫 **Connect with me:**<br><br>* GitHub: `github.com/PratapNavale`<br>* LinkedIn: `linkedin.com/in/pratapnavale`<br>* Email: `navalepratap2005@gmail.com`<br>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratapnavale07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navalepratap2005@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PratapNavale&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PratapNavale&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PratapNavale&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
